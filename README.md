@@ -1,6 +1,9 @@
 <h1 align="center">👩🏾‍💻 Olá, eu sou a Vitória Maria!</h1>
 
-<img src="https://raw.githubusercontent.com/jvitoriamaria/jvitoriamaria/main/maria.png" width="300px" alt="Imagem personalizada do perfil da Vitória">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jvitoriamaria/jvitoriamaria/main/maria.png" width="300px" alt="Imagem personalizada do perfil da Vitória">
+</p>
+
 
 ---
 
