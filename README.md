@@ -1,4 +1,5 @@
-<h1 align="center">👩🏾‍💻 Olá, eu sou a Vitória Maria!</h1>
+<h1 align="center">👩🏾‍💻 Maria codando por aqui...</h1>
+<p align="center">Desenvolvedora em formação | Futura cientista de dados | Apaixonada por cachorros 🐶💻</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jvitoriamaria/jvitoriamaria/main/maria.png" width="300px" alt="Imagem personalizada do perfil da Vitória">
